@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Dady",
+      "branch": "CSE",
+      "email": "gony123@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Ramu",
+      "branch": "EIE",
+      "email": "ram2004@gmail.com"
+    }
+  ]
+}
